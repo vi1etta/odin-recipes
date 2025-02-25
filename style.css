@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 237, 211);
+    font-family: "Inter";
+}
+
+h1 {
+    font-size:32px;
+    text-align: center;
+    color:deeppink;
+}
+
+
+.ul-links {
+    list-style-image: url("images/folder.png")
+}
+
+a {
+    color:hotpink ;
+}
+
+a:hover{
+    color:palevioletred;
+}
+
+img {
+    border-radius: 16px;
+}
+
