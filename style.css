@@ -9,12 +9,19 @@ h1 {
     color:deeppink;
 }
 
+ul , ol , li {
+    margin:4px;
+    padding: 4px;
+}
+
 .ul-links {
-    list-style-image: url("images/folder.png")
+    list-style-image: url("images/folder.png");
+    margin:24px;
+    padding: 8px;
 }
 
 a {
-    color:hotpink ;
+    color:hotpink;
 }
 
 a:hover{
@@ -23,5 +30,20 @@ a:hover{
 
 img {
     border-radius: 16px;
+    margin: auto;
 }
 
+
+.box{
+width: 700px;
+margin: 24px auto;
+padding: 24px;
+}
+
+.header {
+    font-size: 20px;
+    text-align: center;
+    font-weight: 800;
+    border-bottom: 2px solid pink;
+    padding: 24px;
+}
